@@ -9,6 +9,8 @@ nav {
     background-color: #1a1244;
     padding: 10px 200px;
     border-bottom: 4px solid #1A1244;
+    position: sticky;
+    top: 0;
 }
 
 nav ul {
