@@ -92,3 +92,12 @@ nav div {
     display: inline-block;
     margin-top: 10px;
 }
+
+
+.navbar li a.active{
+/*  আপনার পছন্দের অ্যাক্টিভ কালার */
+    background-color: #04AA6D; 
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+}

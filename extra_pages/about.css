@@ -44,6 +44,15 @@ nav div {
 }
 
 
+.navbar li a.active{
+/*  আপনার পছন্দের অ্যাক্টিভ কালার */
+    background-color: #04AA6D; 
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+
 /* navigation code ends here */
 #about-section{
     display: flex;

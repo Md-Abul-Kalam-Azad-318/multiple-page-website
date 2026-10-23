@@ -42,6 +42,16 @@ nav div {
     font-size: 20px;
 }
 
+.navbar li a.active{
+/*  আপনার পছন্দের অ্যাক্টিভ কালার */
+    background-color: #04AA6D; 
+    color: white;
+    font-weight: bold;
+    border: #04AA60;
+    border-radius: 10px;
+}
+
+
 /* Hero Area Code stats from here */
 
 header {

@@ -43,6 +43,14 @@ nav div {
     font-size: 20px;
 }
 
+.navbar li a.active{
+/*  আপনার পছন্দের অ্যাক্টিভ কালার */
+    background-color: #04AA6D; 
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
 
 /* navigation bar css code ends here */
 main {
